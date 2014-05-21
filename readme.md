@@ -1,2 +1,5 @@
 # Sample Project 
-## GitHub Intermediate for May 21, 2014
+## GitHub Intermediate 
+
+_Event Date:_ May 21, 2014
+_Trainers:
