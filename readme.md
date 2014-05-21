@@ -9,3 +9,4 @@ _Trainers:_ Jordan McCullough
 * Init
 * diff
 * push
+* pull
