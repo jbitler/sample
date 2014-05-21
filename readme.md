@@ -4,3 +4,8 @@
 _Event Date:_ May 21, 2014
 _Trainers:_ Jordan McCullough
 
+## Agenda
+
+* Init
+* diff
+* push
